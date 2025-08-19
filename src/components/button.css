@@ -1,0 +1,22 @@
+.button{
+    font-size: 1.4em;
+    border-color: gray;
+    border-width: 1px;
+}
+button:active{
+    background-color: rgba(255, 255, 255, 0.808);
+}
+.button.duplo{
+    grid-column: span 2;
+}
+.button.triplo{
+    grid-column: span 3;
+}
+.button.operator{
+    background-color: rgba(210, 105, 30, 0.808);
+    color: white;
+
+}
+.button.operation:active{
+    background-color: rgba(231, 109, 22, 0.808);
+}

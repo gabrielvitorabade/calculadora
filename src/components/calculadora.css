@@ -1,0 +1,10 @@
+.calculadora{
+    width: 21em;
+    height: 30em;
+    border-radius: 6px;
+    overflow: hidden;
+
+    display: grid;
+    grid-template-columns: repeat( 4, 25%) ;
+    grid-template-rows: 1fr 4.5em 4.5em 4.5em 4.5em 4.5em;
+}

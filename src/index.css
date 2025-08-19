@@ -1,0 +1,11 @@
+*{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  margin: 0;
+  height: 100vh;
+  background: linear-gradient(to right, rgb(100, 65, 165), rgb(42, 8, 69));  
+}
