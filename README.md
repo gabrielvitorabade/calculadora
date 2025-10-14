@@ -1,4 +1,5 @@
-🧮 Calculadora IOS em React + Vite
+#🧮 Calculadora IOS em React + Vite
+
 Uma calculadora simples e funcional desenvolvida com React e Vite, focada em desempenho, modularidade e uma interface intuitiva. Este projeto demonstra como estruturar lógica matemática em aplicações front-end e como lidar com desafios de renderização dinâmica em tempo real.
 🚀 Tecnologias Utilizadas
 - React: Biblioteca principal para construção da interface e gerenciamento de estado.
