@@ -33,18 +33,19 @@ Implementar uma calculadora exige mais do que apenas somar números. Foi necess�
 - Feedback visual: Botões pressionados devem ter destaque para melhorar a experiência do usuário.
   
 🧰 Estrutura do Projeto
-calculadora/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   └── Calculator.jsx
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── styles.css
-├── .eslintrc.cjs
-├── package.json
-└── vite.config.js
+
+  calculadora/
+  ├── public/
+  │   └── index.html
+  ├── src/
+  │   ├── components/
+  │   │   └── Calculator.jsx
+  │   ├── App.jsx
+  │   ├── main.jsx
+  │   └── styles.css
+  ├── .eslintrc.cjs
+  ├── package.json
+  └── vite.config.js
 
 
 📦 Como Executar Localmente
