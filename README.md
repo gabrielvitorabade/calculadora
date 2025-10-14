@@ -33,7 +33,6 @@ Implementar uma calculadora exige mais do que apenas somar números. Foi necess�
 - Feedback visual: Botões pressionados devem ter destaque para melhorar a experiência do usuário.
   
 🧰 Estrutura do Projeto
-
 calculadora/
 ├── public/
 │   └── index.html
@@ -50,16 +49,16 @@ calculadora/
 
 📦 Como Executar Localmente
 
-# Clone o repositório
+ Clone o repositório
 git clone https://github.com/gabrielvitorabade/calculadora
 
-# Acesse o diretório
+ Acesse o diretório
 cd calculadora
 
-# Instale as dependências
+ Instale as dependências
 npm install
 
-# Inicie o servidor de desenvolvimento
+ Inicie o servidor de desenvolvimento
 npm run dev
 
 
